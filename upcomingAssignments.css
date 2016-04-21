@@ -1,0 +1,11 @@
+.odd {
+    background-color: lightblue;
+    padding: 7px;
+}
+.even {
+    background-color: white;
+    padding: 7px;
+}
+.date {
+    float: right;
+}
